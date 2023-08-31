@@ -1,5 +1,5 @@
-<h1 align="center">Hi there everyone, I am Mikolaj!</h1>
-<h3 align="center">Always eager to learn, solving world's hardest problems one line at a time!</h3>
+<h1 align="center">Hello there, I am Mikolaj!</h1>
+<h3 align="center">Always eager to learn, solving the world's hardest problems one line at a time!</h3>
 
 - **[Check out my projects!](https://github.com/dejamiko?tab=repositories)**
 
