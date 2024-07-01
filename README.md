@@ -36,18 +36,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
 
-
-  <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
-   
-  <br/>
-<table align="center">
-  <tr align="center">
-    <td align="center"><img src="https://github-readme-stats-ouuan.vercel.app/api?username=dejamiko&theme=radical&include_all_commits=true&count_private=true&show_icons=true&hide_border=true"  display=block width=90% height=auto  alt="1" > </td>
-   </tr>
-   </table>
-  <br/>
-  </summary>
-
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dejamiko&theme=radical" height=auto width=80%"  />  
 </p>
